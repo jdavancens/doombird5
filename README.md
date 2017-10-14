@@ -14,5 +14,7 @@
 * Mashed up horror movie samples
 
 ## Themes
-* Societal collapse
+* Slide toward fascism
+* Societal/environmental collapse
 * Radical political resistance
+* Technology as a tool of oppression, exclusion
